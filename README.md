@@ -2,6 +2,8 @@
 
 [Download the texture pack from Releases](../../releases) — download the base ZIP and all five numbered texture ZIPs.
 
+I created this for my own private use. The texture pack is fully AI upscaled, and I have no coding experience.
+
 4x AI texture upscale preview for Splinter Cell Double Agent v2 recomp.
 
 ## Installation
